@@ -106,5 +106,13 @@ If you do build something on top of this, I would love to hear about it:
 
 ---
 
+## Background
+
+This is the May 2026 iteration of the idea. An earlier March 2026 concept — a filter-based architecture focused on personality compression and family-facing authenticity — is preserved in [`docs/original-concept-2026-03-09.md`](docs/original-concept-2026-03-09.md). The two are not replacements. The March concept asks *how to compress a general AI into a specific person*. The May concept asks *how to keep that person continuously alive*. Together they trace the thinking.
+
+The conversation that sparked the May architecture is in [`docs/origin-conversation-2026-05-12.md`](docs/origin-conversation-2026-05-12.md).
+
+---
+
 *Thomas Zhang (张磊)*
 *Winnipeg, Canada · 2026-05-12*
